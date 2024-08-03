@@ -1,0 +1,71 @@
+/* index.css */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    width: 100%;
+    height: 60px;
+    background-color: #320f45;
+}
+
+.para1 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+.para2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.header1 {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    width: 100%;
+    height: 20px;
+}
+
+.para3 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.side {
+    width: 200px;
+    height: 470px;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 10px;
+}
+
+.anger {
+    text-decoration: none;
+    color: purple
+}
+
+.para4 {
+    font-size: 20px;
+    color: black;
+}
+
+.content {
+    display: flex;
+}
+
+.content-inside {
+    margin-left: 20px;
+    padding: 10px;
+}
+.table{
+    background-color: rgb(112, 111, 111);
+}
+
